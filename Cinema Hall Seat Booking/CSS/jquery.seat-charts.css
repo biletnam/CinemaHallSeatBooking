@@ -22,7 +22,7 @@ div.seatCharts-seat {
 	border-radius: 5px;
 	cursor: default;
 }
-div.seatCharts-seat:focus {
+div.seatCharts-seat:focus {  
 	border: none;
 }
 /*
